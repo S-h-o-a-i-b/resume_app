@@ -22,10 +22,6 @@ A professional Resume Builder app built using Flutter.
 | ![Home](assets/images/img3.png) | ![Personal Info](assets/images/img2.png) | ![Skills](assets/images/img4.png) |
 
 
-## 👉 Live Demo
-
-
-
 
 ## 🚀 Getting Started
 
